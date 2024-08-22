@@ -11,7 +11,7 @@ Use the `requirements.txt` file included in this repository to set up a Python e
 `pip install -r requirements.txt`
 
 ### Data files
-The example trajectory data snippet should be downloaded from http://vu.edu/laddms-data-snippet. This data file should be placed in the same directory as the tutorial notebook and other files.
+The example trajectory data snippet should be downloaded from https://vu.edu/laddms-data-snippet. This data file should be placed in the same directory as the tutorial notebook and other files.
 
 ## Running the tutorial
-Open the tutorial notebook `basic_data_tutorial.ipynb` by activating the Python environment (`conda activate laddms_tutorial`) and running Jupyter Lab notebook server with the terminal command `jupter lab`.
+Open the tutorial notebook `basic_data_tutorial.ipynb` by activating the Python environment (`conda activate laddms_tutorial`) and running Jupyter Lab notebook server with the terminal command `jupyter lab`.
