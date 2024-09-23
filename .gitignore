@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_STORE
+.idea/
+__pycache__/
+sample_data.json
